@@ -1,0 +1,20 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Regenerable processed data (built by scripts/build_tableau_workbook.py)
+data/processed/
+
+# Temp files
+*.twb
+*.tmp
+~$*
+.pbi/
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
