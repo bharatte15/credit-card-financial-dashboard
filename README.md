@@ -100,13 +100,7 @@ python scripts/build_tableau_workbook.py      # writes data/processed + tableau/
 - **Power BI:** load the three CSVs from `data/raw/`, then follow `docs/Implementation_Guide.md` (Power Query → model → measures → visuals).
 - **Your own data:** replace the files in `data/raw/`, keeping the same column names (or edit the scripts).
 
-## Screenshots
 
-Add images to `images/` and link them here:
-
-```markdown
-![Executive Overview](images/01_executive_overview.png)
-```
 
 ## Next Steps
 
